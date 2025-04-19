@@ -3,7 +3,8 @@
 
 
 Software Engineering student | Sichuan University.
-Passionate about coding and learning something new.
+
+Passionate about Programing and technology.
 
 
 ## 🌐 Socials:
