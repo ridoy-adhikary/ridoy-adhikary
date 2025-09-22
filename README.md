@@ -5,14 +5,14 @@ I’m passionate about **programming, technology, and problem-solving**, with a 
 
 Currently, I’m working on **Full Stack Web Development** while also exploring the fundamentals of **data engineering, databases, and distributed systems**. I love learning new technologies and applying them to real-world projects.
 
-### 🌟 What I Do
+### What I Do
 
-* 🔭 Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
-* 📊 Exploring **Big Data & Data Engineering** concepts
-* 🌐 Continuously learning and experimenting with new technologies
-* 🧩 Interested in **databases, distributed systems, and data pipelines**
+* Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+* Exploring **Big Data & Data Engineering** concepts
+* Continuously learning and experimenting with new technologies
+* Interested in **databases, distributed systems, and data pipelines**
 
-### 🚀 Skills & Tools
+### Skills & Tools
 
 * **Languages:** C, C++, JavaScript, Python
 * **Web Development:** React, Node.js, Express, MongoDB
