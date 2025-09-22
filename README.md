@@ -1,10 +1,25 @@
 ## Hello,
-👋This is Ridoy Kumar Adhikary.
 
+I’m **Ridoy Kumar Adhikary**, a **Software Engineering student** at *Sichuan University*.
+I’m passionate about **programming, technology, and problem-solving**, with a vision to become a **Data Engineer** specializing in **Big Data**.
 
-Software Engineering student | Sichuan University.
+Currently, I’m working on **Full Stack Web Development** while also exploring the fundamentals of **data engineering, databases, and distributed systems**. I love learning new technologies and applying them to real-world projects.
 
-Passionate about Programing and technology.
+### 🌟 What I Do
+
+* 🔭 Building projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js)
+* 📊 Exploring **Big Data & Data Engineering** concepts
+* 🌐 Continuously learning and experimenting with new technologies
+* 🧩 Interested in **databases, distributed systems, and data pipelines**
+
+### 🚀 Skills & Tools
+
+* **Languages:** C, C++, JavaScript, Python
+* **Web Development:** React, Node.js, Express, MongoDB
+* **Other Interests:** SQL, Data Structures & Algorithms, Data Engineering Concepts
+
+✨ *“Keep building, keep learning — one step closer every day.”*
+
 
 
 ## 🌐 Socials:
