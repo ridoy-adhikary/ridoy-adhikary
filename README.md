@@ -1,4 +1,4 @@
-# Hello,
+#  Hello,
 I’m Ridoy Kumar Adhikary, a Software Engineering student at Sichuan University with a focus on Machine Learning, Artificial Intelligence, backend engineering, and data systems. My journey has grown from full-stack software development into large-scale data processing and AI/ML research, with a goal of bridging academic research and practical AI engineering.<br><br>What I Do -<br><br>· Machine Learning & AI — Exploring ML, Deep Learning, Computer Vision, and AI applications.<br>· AI Research — Working on model optimization, explainable AI, multi-label learning, and uncertainty estimation.<br>· Computer Vision — Developing deep learning solutions for image-based problems, including medical imaging.<br>· Data & Big Data — Building data pipelines and working with Spark, Kafka, Hadoop, Hive, and large-scale datasets.<br>· Backend Engineering — Developing APIs, data systems, and scalable backend services with Python and Node.js.<br>· Full-Stack Development — Building practical web applications using React, Node.js, Express, and modern databases.<br>· AI Engineering — Exploring how research models can be integrated into reliable, scalable, real-world software systems.<br><br> Skills & Tools<br><br>Programing Languages: Python · C/C++ · Java · JavaScript · SQL<br>AI/ML: Machine Learning · Deep Learning · Computer Vision · TensorFlow · Keras · Scikit-learn · XAI<br>Data & Big Data: Apache Spark · Kafka · Hadoop · Hive · PostgreSQL · MongoDB · ETL<br>Backend & Web: React · Node.js · Express.js · FastAPI · REST APIs · JWT<br>Tools & Systems: Git · Linux · Docker · Data Pipelines · Distributed Systems
 
 
@@ -12,5 +12,11 @@ I’m Ridoy Kumar Adhikary, a Software Engineering student at Sichuan University
 ![](https://streak-stats.demolab.com/?user=ridoy-adhikary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ridoy-adhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ridoy-adhikary&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=ridoy-adhikary&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
